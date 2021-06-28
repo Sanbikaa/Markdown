@@ -9,3 +9,17 @@ Blockquotes and Inline code.
 - You can use emojis
 
 - You can make tables and task list on markdown.
+
+## Github Pages
+- Pages turns repositories into websites
+
+- Personal url tied to projects in GitHub repositories
+
+- Streamlined publishing experience
+
+### Examples of Syntax
+
+- ~~Example~~ of Strikethrough
+- *Example* of Italic
+- **Example of _bold_ and nested italic**
+- ***Example of all bold and italic***
